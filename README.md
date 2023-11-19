@@ -1,4 +1,5 @@
 # Rostelecom_auth_test - Тесты регистрации и авторизации пользователей на портале Ростелеком
-settings.py содержит данные для авторизации пользователя
-conftest.py - фикстуры проекта
-test_auth_page.py - тестовые функции
+Registration and user authentification 
+settings.py содержит данные для авторизации пользователя (user data)
+conftest.py - фикстуры проекта (fixtures)
+test_auth_page.py - тестовые функции (test functions)
